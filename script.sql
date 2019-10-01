@@ -70,3 +70,6 @@ BEGIN
 		AND s_src.created BETWEEN _start_date AND _end_date;
 end$$;
 select * from temp_shipment
+
+
+hola mundo
